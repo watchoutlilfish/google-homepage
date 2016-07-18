@@ -1,0 +1,83 @@
+#main_elements {
+    padding: 120px 0 300px;
+}
+#main_elements img {
+    display:block;
+    margin: auto;
+}
+#main_elements img {
+    display:block;
+    margin: auto;
+    clear: both;
+}
+#main_elements textarea {
+    width: 600px;
+    height: 18pt;
+    display:block;
+    margin:auto;
+    font-family: sans-serif;
+}
+#google_search{
+    display: inline-block;
+    height: 30px;
+    width: 150px;
+    margin: 20px 5px 0 500px
+}
+#lucky_search{
+    display: inline-block;
+    height: 30px;
+    width: 180px;
+    margin: 20px 0 0 5px
+}
+#navbar {
+}
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+#navbar li {
+    float: right;
+    display: block;
+    color: #999999;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#footer {
+    background-color: #BBBBBB;
+    padding: 5px;
+    margin: 0 -8px -8px -8px;
+}
+#footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#footer_leftul {
+    float: left;
+}
+#footer_leftul li {
+    float: left;
+    display: block;
+    color: #999999;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#footer_rightul li {
+    float: right;
+    display: block;
+    color: #999999;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+p {
+    background-color: #BBBBBB;
+    text-align: center;
+}
